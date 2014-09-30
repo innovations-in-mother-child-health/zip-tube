@@ -29,3 +29,19 @@ Version 1:  Splits in half, to allow for easier cleaning
 Version 2:  Embedded at end of tube, has built-in zipper assembly 
 
 <img src="https://raw.githubusercontent.com/innovations-in-mother-child-health/zip-tube/master/smallerPics/babushka_img_nozzle.png">
+
+
+<img src="https://raw.githubusercontent.com/innovations-in-mother-child-health/zip-tube/master/smallerPics/babushka_img_01.png">
+
+<img src="https://raw.githubusercontent.com/innovations-in-mother-child-health/zip-tube/master/smallerPics/babushka_img_02.png">
+
+<img src="https://raw.githubusercontent.com/innovations-in-mother-child-health/zip-tube/master/smallerPics/babushka_img_03.png">
+
+<img src="https://raw.githubusercontent.com/innovations-in-mother-child-health/zip-tube/master/smallerPics/babushka_img_overview.png">
+
+<img src="https://raw.githubusercontent.com/innovations-in-mother-child-health/zip-tube/master/smallerPics/babushka_img_overview2.png">
+
+<img src="https://raw.githubusercontent.com/innovations-in-mother-child-health/zip-tube/master/smallerPics/babushka_img_tube.png">
+
+
+
