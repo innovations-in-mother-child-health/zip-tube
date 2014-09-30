@@ -22,6 +22,10 @@ Note: in the below photos, the ends of the 'zip-tube' are open, and can be conne
 
 ### Nozzle for end of tube
 
-Splits in half, to allow for easier cleaning
+Version 1:  Splits in half, to allow for easier cleaning
 
 <img src="https://raw.githubusercontent.com/dwblair/zip-tube/master/ziploc_nozzle_small.png">
+
+Version 2:  Embedded at end of tube, has built-in zipper assembly 
+
+<img src="https://raw.githubusercontent.com/innovations-in-mother-child-health/zip-tube/master/smallerPics/babushka_img_nozzle.png">
